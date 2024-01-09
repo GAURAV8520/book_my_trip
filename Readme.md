@@ -21,11 +21,15 @@ Display a confirmation message after successful booking.
 
 ## Screenshots
 
+
+![Screenshot 2024-01-08 235701](https://github.com/GAURAV8520/book_my_trip/assets/136880099/bca34693-eba4-4fef-bd88-a74752ed2301)
+
+
 ![Screenshot 2024-01-08 235910](https://github.com/GAURAV8520/book_my_trip/assets/136880099/1d5eb2fd-5845-43d4-b827-2260fc36925c)
 
 ![Screenshot 2024-01-08 235903](https://github.com/GAURAV8520/book_my_trip/assets/136880099/edc63539-e631-4a06-b567-f7386d5107b4)
 
-![Screenshot 2024-01-08 235701](https://github.com/GAURAV8520/book_my_trip/assets/136880099/bca34693-eba4-4fef-bd88-a74752ed2301)
+
 
 ![Screenshot 2024-01-08 235857](https://github.com/GAURAV8520/book_my_trip/assets/136880099/42f76534-bb54-4fe4-81ae-d7e5be7f402f)
 
