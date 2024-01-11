@@ -6,6 +6,10 @@ Welcome to the "Book by Trip" project! This is a simple web application that all
 
 This project consists of a single-page web application where users can browse available trips and book their preferred ones. The UI is designed to be user-friendly and but till now it is not responsive.
 
+## Demo
+
+You can view a live demo of the website here https://gaurav8520.github.io/book_my_trip/
+
 ## Features
 
 - **Trip Listings:** Display a list of available trips with details such as destination, duration, and cost.
