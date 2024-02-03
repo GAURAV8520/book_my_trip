@@ -17,6 +17,7 @@ You can view a live demo of the website here https://gaurav8520.github.io/book_m
 Validate user inputs in the booking form to ensure accurate information.
 Display a confirmation message after successful booking.
 
+
 ## Technologies Used
 
 - **HTML:** Structure of the web pages.
